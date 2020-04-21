@@ -4,7 +4,7 @@
         <link>https://i.imgur.com/LSzyPzl.jpg</link>
         <preview>https://i.imgur.com/LSzyPzl.jpg</preview>
     </wallpaper>
-    <wallpaper id="Mountains">
+    <wallpaper id="The Mountain">
         <link>https://i.imgur.com/TbYbS6H.jpg</link>
         <preview>https://i.imgur.com/TbYbS6H.jpg</preview>
     </wallpaper>
